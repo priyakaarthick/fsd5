@@ -7,5 +7,5 @@ change from nano editor
 1) Kittur Chennama
 2)Alluri Seetharama Raju
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-a)changes made in yamuna branch
+a)changes made in ganga branch
 
